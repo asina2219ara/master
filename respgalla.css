@@ -1,0 +1,47 @@
+
+
+#container{
+    width:1920px;
+    overflow:hidden;
+}
+#sliderbox{
+    position:relative;
+    width:7680px;
+    animation-name:slideranimation;
+    animation-duration:10s;
+    animation-iteration-count: infinite;
+}
+#sliderbox img{
+    float:left;
+    
+}
+@keyframes slideranimation{
+    0%{
+        left:0px;
+
+    }
+    20%
+    {
+        left: 0px;
+    }
+    25% /*5sec*/
+    {
+        left:-1920px;
+    }
+    45% /*9sec*/
+    {
+        left:-3840px;
+    }
+    50% /*10sec*/
+    {
+        left:-5760x;
+    }
+ 70% /*14sec*/
+ {
+     left:-5760px;
+ }
+ 75%
+ {
+     left:-7680px;
+ }
+}

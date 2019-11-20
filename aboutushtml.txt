@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="aboutus.css">
+    <title>parallaxeffect</title>
+    <style type="text/css">
+    *{
+        margin:0px;
+        padding:0px;
+    }
+    .parallax1{
+        width:100%;
+        height:600px;
+        background-image:url(125007.jpg);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+    }
+    .parallax1 h1{
+        position:relative;
+        left:400px;
+        top:200px;
+        width:1000px;
+        height:20x;
+        padding:10px;
+        text-align: center;   
+
+    }
+    .parallax2{
+        width:100%;
+        height:600px;
+        background-image:url(124934.jpg);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+    }
+    .parallax2 h1{
+        position:relative;
+        left:100px;
+        top:200px;
+        width:1000px;
+        height:20x;
+        padding:10px;
+        text-align: center;   
+
+    }
+    .parallax3{
+        width:100%;
+        height:600px;
+        background-image:url(124943.jpg);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+    }
+    .parallax3 h1{
+        position:relative;
+        left:100px;
+        top:200px;
+        width:1000px;
+        height:20x;
+        padding:10px;
+        text-align: center;  
+    } 
+    .parallax4{
+        width:100%;
+        height:600px;
+        background-image:url(124921.jpg);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+    }
+    .parallax4 h1{
+        position:relative;
+        left:100px;
+        top:200px;
+        width:1000px;
+        height:20x;
+        padding:10px;
+        text-align: center;  
+    } 
+    .parallax5{
+        width:100%;
+        height:600px;
+        background-image:url(125087.jpg);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+    }
+    .parallax5 h1{
+        position:relative;
+        left:100px;
+        top:200px;
+        width:1000px;
+        height:20x;
+        padding:10px;
+        text-align: center;  
+    } 
+    .parallax6{
+        width:100%;
+        height:600px;
+        background-image:url(124933.jpg);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+    }
+    .parallax6 h1{
+        position:relative;
+        left:100px;
+        top:200px;
+        width:1000px;
+        height:20x;
+        padding:10px;
+        text-align: center;  
+    } 
+    
+
+    .para{
+        width:100%;
+        padding:40px 0 0 0;
+        height:100px;
+        text-align:center;
+        color:rgb(1, 5, 10);
+        font-size:20px;
+        font-family: sans-serif;
+        background-color: rgb(236, 222, 222);
+    }
+
+        </style>
+</head>
+<body>
+    <div class="parallax1">
+            <h1>India is a country with a rich culture and heritage</h1>
+        </div>
+       
+<div class="para">
+        <p>                When my India gave the Zero,
+                The world became able to count;
+                When India proposed Decimal Point,
+                The world defeated Everest Mount.</p></div>
+
+                <div class="parallax2">
+                    <h1>A teardrop on the face of eternity</h1>
+                </div>
+                <div class="para">
+                    <p>
+                            If it would not tell about these things,
+                            It was impossible to reach the moon;
+                            The distance between the sun and the earth,
+                            Was impossible to predict, but came soon.
+                    </p>
+                </div>
+                
+                <div class="parallax3">
+                    <h1>India’s strength lies in what is unique about her, that is what Westerners want to discover</h1></div>
+  <div class="para">
+        <p>
+                Where the civilization grew first,
+                Where arts were first born;
+                It is my incredible India,
+                I love the sweetness of its corn.</p></div>
+
+         <div class="parallax4">
+             <h1>Festivals in INDIA are unlike anything you  have seen or experienced</h1>
+         </div>          
+                           <div class="para">
+                               <p>Where the love is our tradition,
+                                    There is no difference between black & white;
+                                    All the people are equal for us here,
+                                    There is so much peace and no fight.
+                                    </p>
+                           </div> 
+                           <div class="parallax5">
+                               <h1>Fall in Love with our culture</h1>
+                           </div>
+                           <div class="para"><p>
+                                  
+                                So much affection to the rivers too,
+                                We call them our mother;
+                                I am blessed to get birth here,
+                                It feels great being a part of this pleasure.
+
+                           </p></div>
+                                                   
+                                             
+                <div class="parallax6">
+                    <h1>Fell the bliss of our Nation.Be proud to be an INDIAN</h1></div>
+<div class="para"><p>
+        To quote Sri Aurobindo, 'For more than three thousand years, India has been creating abundantly and incessantly, lavishly with an inexhaustible many sidedness, republics, kingdoms, empires, philosophies, cosmogonies, sciences, creeds, arts, poems and all kinds of monuments, palaces, temples, public works, communities, societies, religious orders, laws, codes and rituals, physical sciences, psychic sciences, systems of Yoga, systems of politics, administration, arts spiritual, arts worldly, trades, industries, fine crafts - the list is endless.' This is the honest word to vouch for the creativity of My India.</p>
+</div>
+                       
+                
+                
+               
+            
+    
+    
+</body>
+</html>
